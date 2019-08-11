@@ -29,12 +29,12 @@ password = browser.find_element_by_id("password") #password form field
 
 # username.send_keys("danjplunkett@gmail.com")
 # time.sleep(5)
-# password.send_keys("Jplunkett1!")
+# password.send_keys("####")
 # time.sleep(5)
-username.send_keys("waltz22r@mtholyoke.edu")
-password.send_keys("March151995")
-# username.send_keys("thompsonjjet23@gmail.com")
-# password.send_keys("Veganveins2015")
+username.send_keys("#####")
+password.send_keys("####")
+# username.send_keys("####@gmail.com")
+# password.send_keys("####")
 
 
 
